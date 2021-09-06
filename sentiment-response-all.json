@@ -1,0 +1,394 @@
+{
+    "documents": [
+        {
+            "confidenceScores": {
+                "negative": 0.99,
+                "neutral": 0.01,
+                "positive": 0.0
+            },
+            "id": "0",
+            "sentences": [
+                {
+                    "confidenceScores": {
+                        "negative": 0.2,
+                        "neutral": 0.72,
+                        "positive": 0.08
+                    },
+                    "length": 14,
+                    "offset": 0,
+                    "sentiment": "neutral",
+                    "text": "Stop blushing."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.15,
+                        "neutral": 0.84,
+                        "positive": 0.01
+                    },
+                    "length": 33,
+                    "offset": 15,
+                    "sentiment": "neutral",
+                    "text": "I'm not needling, really I'm not."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.0,
+                        "neutral": 0.78,
+                        "positive": 0.22
+                    },
+                    "length": 39,
+                    "offset": 49,
+                    "sentiment": "neutral",
+                    "text": "Do you know, I\nhad a dream an hour ago."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.99,
+                        "neutral": 0.0,
+                        "positive": 0.01
+                    },
+                    "length": 97,
+                    "offset": 89,
+                    "sentiment": "negative",
+                    "text": "I lay down for a cat-nap and in this dream\nyou and I, Montag, got into a furious debate on books."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 43,
+                    "offset": 187,
+                    "sentiment": "negative",
+                    "text": "You towered\nwith rage, yelled quotes at me."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.04,
+                        "neutral": 0.93,
+                        "positive": 0.03
+                    },
+                    "length": 30,
+                    "offset": 231,
+                    "sentiment": "neutral",
+                    "text": "I calmly parried every thrust."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.05,
+                        "neutral": 0.91,
+                        "positive": 0.04
+                    },
+                    "length": 95,
+                    "offset": 262,
+                    "sentiment": "neutral",
+                    "text": "Power, I\nsaid, And you, quoting Dr. Johnson, said `Knowledge is more than\nequivalent to force!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 124,
+                    "offset": 358,
+                    "sentiment": "negative",
+                    "text": "And I said, `Well, Dr. Johnson also said, dear boy,\nthat \"He is no wise man that will quit a certainty for an uncertainty.'\""
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.03,
+                        "neutral": 0.93,
+                        "positive": 0.04
+                    },
+                    "length": 31,
+                    "offset": 483,
+                    "sentiment": "neutral",
+                    "text": "Stick with the fireman, Montag."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 26,
+                    "offset": 515,
+                    "sentiment": "negative",
+                    "text": "All else is dreary chaos!\""
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.16,
+                        "neutral": 0.82,
+                        "positive": 0.02
+                    },
+                    "length": 32,
+                    "offset": 542,
+                    "sentiment": "neutral",
+                    "text": "\"Don't listen,\" whispered Faber."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.99,
+                        "neutral": 0.01,
+                        "positive": 0.0
+                    },
+                    "length": 24,
+                    "offset": 575,
+                    "sentiment": "negative",
+                    "text": "\"He's trying to confuse."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.99,
+                        "neutral": 0.01,
+                        "positive": 0.0
+                    },
+                    "length": 14,
+                    "offset": 600,
+                    "sentiment": "negative",
+                    "text": "He's\nslippery."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.07,
+                        "neutral": 0.82,
+                        "positive": 0.11
+                    },
+                    "length": 10,
+                    "offset": 615,
+                    "sentiment": "neutral",
+                    "text": "Watch out!"
+                }
+            ],
+            "sentiment": "negative",
+            "warnings": []
+        },
+        {
+            "confidenceScores": {
+                "negative": 0.92,
+                "neutral": 0.0,
+                "positive": 0.08
+            },
+            "id": "1",
+            "sentences": [
+                {
+                    "confidenceScores": {
+                        "negative": 0.07,
+                        "neutral": 0.82,
+                        "positive": 0.11
+                    },
+                    "length": 16,
+                    "offset": 0,
+                    "sentiment": "neutral",
+                    "text": "Beatty chuckled."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 80,
+                    "offset": 17,
+                    "sentiment": "negative",
+                    "text": "\"And you said, quoting, `Truth will come to light,\nmurder will not be hid long!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.63,
+                        "neutral": 0.0,
+                        "positive": 0.37
+                    },
+                    "length": 66,
+                    "offset": 98,
+                    "sentiment": "negative",
+                    "text": "And I cried in good humour, 'Oh God, he\nspeaks only of his horse!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.98,
+                        "neutral": 0.01,
+                        "positive": 0.01
+                    },
+                    "length": 51,
+                    "offset": 165,
+                    "sentiment": "negative",
+                    "text": "And `The Devil can cite Scripture for his\npurpose.'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.99,
+                        "neutral": 0.0,
+                        "positive": 0.01
+                    },
+                    "length": 105,
+                    "offset": 217,
+                    "sentiment": "negative",
+                    "text": "And you yelled, 'This age thinks better of a gilded fool, than\nof a threadbare saint in wisdom's school!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 76,
+                    "offset": 323,
+                    "sentiment": "negative",
+                    "text": "And I whispered gently, 'The\ndignity of truth is lost with much protesting.'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 65,
+                    "offset": 400,
+                    "sentiment": "negative",
+                    "text": "And you screamed,\n'Carcasses bleed at the sight of the murderer!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.0,
+                        "neutral": 1.0,
+                        "positive": 0.0
+                    },
+                    "length": 66,
+                    "offset": 466,
+                    "sentiment": "neutral",
+                    "text": "And I said, patting your\nhand, 'What, do I give you trench mouth?'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.0,
+                        "neutral": 0.99,
+                        "positive": 0.01
+                    },
+                    "length": 39,
+                    "offset": 533,
+                    "sentiment": "neutral",
+                    "text": "And you shrieked,\n'Knowledge is power!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.07,
+                        "neutral": 0.92,
+                        "positive": 0.01
+                    },
+                    "length": 64,
+                    "offset": 573,
+                    "sentiment": "neutral",
+                    "text": "and 'A dwarf on a giant's shoulders of the\nfurthest of the two!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.87,
+                        "neutral": 0.0,
+                        "positive": 0.13
+                    },
+                    "length": 214,
+                    "offset": 638,
+                    "sentiment": "negative",
+                    "text": "and I summed my side up with rare serenity in,\n'The folly of mistaking a metaphor for a proof, a torrent of verbiage for\na spring of capital truths, and oneself as an oracle, is inborn in us, Mr.\nValery once said.'"
+                }
+            ],
+            "sentiment": "negative",
+            "warnings": []
+        },
+        {
+            "confidenceScores": {
+                "negative": 0.37,
+                "neutral": 0.03,
+                "positive": 0.6
+            },
+            "id": "2",
+            "sentences": [
+                {
+                    "confidenceScores": {
+                        "negative": 0.01,
+                        "neutral": 0.01,
+                        "positive": 0.98
+                    },
+                    "length": 67,
+                    "offset": 0,
+                    "sentiment": "positive",
+                    "text": "I think you may like to know something of his person and character."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.01,
+                        "neutral": 0.01,
+                        "positive": 0.98
+                    },
+                    "length": 379,
+                    "offset": 68,
+                    "sentiment": "positive",
+                    "text": "He \nhad an excellent constitution of body, was of middle stature, but well set, \nand very strong; he was ingenious, could draw prettily, was skilled a little \nin music, and had a clear, pleasing voice, so that when he played psalm tunes\n on his violin and sung withal, as he sometimes did in an evening after \nthe business of the day was over, it was extremely agreeable to hear."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.0,
+                        "neutral": 0.0,
+                        "positive": 1.0
+                    },
+                    "length": 239,
+                    "offset": 448,
+                    "sentiment": "positive",
+                    "text": "He had \na mechanical genius too, and, on occasion, was very handy in the use of other \ntradesmen's tools; but his great excellence lay in a sound understanding and \nsolid judgment in prudential matters, both in private and publick affairs."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.88,
+                        "neutral": 0.0,
+                        "positive": 0.12
+                    },
+                    "length": 542,
+                    "offset": 689,
+                    "sentiment": "negative",
+                    "text": "In the latter, indeed, he was never employed, the numerous family he had to \neducate and the straitness of his circumstances keeping him close to his trade; \nbut I remember well his being frequently visited by leading people, who \nconsulted him for his opinion in affairs of the town or of the church he \nbelonged to, and showed a good deal of respect for his judgment and advice: \nhe was also much consulted by private persons about their affairs when any difficulty \noccurred, and frequently chosen an arbitrator between contending parties."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.0,
+                        "neutral": 0.0,
+                        "positive": 1.0
+                    },
+                    "length": 236,
+                    "offset": 1233,
+                    "sentiment": "positive",
+                    "text": "At his table he liked to have, as often as he could, some sensible friend or \nneighbor to converse with, and always took care to start some ingenious or useful \ntopic for discourse, which might tend to improve the minds of his children."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.82,
+                        "neutral": 0.15,
+                        "positive": 0.03
+                    },
+                    "length": 586,
+                    "offset": 1471,
+                    "sentiment": "negative",
+                    "text": "By this means he turned our attention to what was good, just, and prudent in \nthe conduct of life; and little or no notice was ever taken of what related to \nthe victuals on the table, whether it was well or ill dressed, in or out of season, \nof good or bad flavor, preferable or inferior to this or that other thing \nof the kind, so that I was bro't up in such a perfect inattention to those matters \nas to be quite indifferent what kind of food was set before me, and so unobservant of \nit, that to this day if I am asked I can scarce tell a few hours after dinner \nwhat I dined upon."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.9,
+                        "neutral": 0.0,
+                        "positive": 0.1
+                    },
+                    "length": 213,
+                    "offset": 2058,
+                    "sentiment": "negative",
+                    "text": "This has been a convenience to me in traveling, where my \ncompanions have been sometimes very unhappy for want of a suitable gratification \nof their more delicate, because better instructed, tastes and appetites.."
+                }
+            ],
+            "sentiment": "mixed",
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2020-04-01"
+}

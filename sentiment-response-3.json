@@ -1,0 +1,95 @@
+{
+    "documents": [
+        {
+            "confidenceScores": {
+                "negative": 0.37,
+                "neutral": 0.03,
+                "positive": 0.6
+            },
+            "id": "0",
+            "sentences": [
+                {
+                    "confidenceScores": {
+                        "negative": 0.01,
+                        "neutral": 0.01,
+                        "positive": 0.98
+                    },
+                    "length": 67,
+                    "offset": 0,
+                    "sentiment": "positive",
+                    "text": "I think you may like to know something of his person and character."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.01,
+                        "neutral": 0.01,
+                        "positive": 0.98
+                    },
+                    "length": 379,
+                    "offset": 68,
+                    "sentiment": "positive",
+                    "text": "He \nhad an excellent constitution of body, was of middle stature, but well set, \nand very strong; he was ingenious, could draw prettily, was skilled a little \nin music, and had a clear, pleasing voice, so that when he played psalm tunes\n on his violin and sung withal, as he sometimes did in an evening after \nthe business of the day was over, it was extremely agreeable to hear."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.0,
+                        "neutral": 0.0,
+                        "positive": 1.0
+                    },
+                    "length": 239,
+                    "offset": 448,
+                    "sentiment": "positive",
+                    "text": "He had \na mechanical genius too, and, on occasion, was very handy in the use of other \ntradesmen's tools; but his great excellence lay in a sound understanding and \nsolid judgment in prudential matters, both in private and publick affairs."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.88,
+                        "neutral": 0.0,
+                        "positive": 0.12
+                    },
+                    "length": 542,
+                    "offset": 689,
+                    "sentiment": "negative",
+                    "text": "In the latter, indeed, he was never employed, the numerous family he had to \neducate and the straitness of his circumstances keeping him close to his trade; \nbut I remember well his being frequently visited by leading people, who \nconsulted him for his opinion in affairs of the town or of the church he \nbelonged to, and showed a good deal of respect for his judgment and advice: \nhe was also much consulted by private persons about their affairs when any difficulty \noccurred, and frequently chosen an arbitrator between contending parties."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.0,
+                        "neutral": 0.0,
+                        "positive": 1.0
+                    },
+                    "length": 236,
+                    "offset": 1233,
+                    "sentiment": "positive",
+                    "text": "At his table he liked to have, as often as he could, some sensible friend or \nneighbor to converse with, and always took care to start some ingenious or useful \ntopic for discourse, which might tend to improve the minds of his children."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.82,
+                        "neutral": 0.15,
+                        "positive": 0.03
+                    },
+                    "length": 586,
+                    "offset": 1471,
+                    "sentiment": "negative",
+                    "text": "By this means he turned our attention to what was good, just, and prudent in \nthe conduct of life; and little or no notice was ever taken of what related to \nthe victuals on the table, whether it was well or ill dressed, in or out of season, \nof good or bad flavor, preferable or inferior to this or that other thing \nof the kind, so that I was bro't up in such a perfect inattention to those matters \nas to be quite indifferent what kind of food was set before me, and so unobservant of \nit, that to this day if I am asked I can scarce tell a few hours after dinner \nwhat I dined upon."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.9,
+                        "neutral": 0.0,
+                        "positive": 0.1
+                    },
+                    "length": 212,
+                    "offset": 2058,
+                    "sentiment": "negative",
+                    "text": "This has been a convenience to me in traveling, where my \ncompanions have been sometimes very unhappy for want of a suitable gratification \nof their more delicate, because better instructed, tastes and appetites."
+                }
+            ],
+            "sentiment": "mixed",
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2020-04-01"
+}

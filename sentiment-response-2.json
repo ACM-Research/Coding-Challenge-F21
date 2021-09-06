@@ -1,0 +1,139 @@
+{
+    "documents": [
+        {
+            "confidenceScores": {
+                "negative": 0.92,
+                "neutral": 0.0,
+                "positive": 0.08
+            },
+            "id": "0",
+            "sentences": [
+                {
+                    "confidenceScores": {
+                        "negative": 0.07,
+                        "neutral": 0.82,
+                        "positive": 0.11
+                    },
+                    "length": 16,
+                    "offset": 0,
+                    "sentiment": "neutral",
+                    "text": "Beatty chuckled."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 80,
+                    "offset": 17,
+                    "sentiment": "negative",
+                    "text": "\"And you said, quoting, `Truth will come to light,\nmurder will not be hid long!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.63,
+                        "neutral": 0.0,
+                        "positive": 0.37
+                    },
+                    "length": 66,
+                    "offset": 98,
+                    "sentiment": "negative",
+                    "text": "And I cried in good humour, 'Oh God, he\nspeaks only of his horse!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.98,
+                        "neutral": 0.01,
+                        "positive": 0.01
+                    },
+                    "length": 51,
+                    "offset": 165,
+                    "sentiment": "negative",
+                    "text": "And `The Devil can cite Scripture for his\npurpose.'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.99,
+                        "neutral": 0.0,
+                        "positive": 0.01
+                    },
+                    "length": 105,
+                    "offset": 217,
+                    "sentiment": "negative",
+                    "text": "And you yelled, 'This age thinks better of a gilded fool, than\nof a threadbare saint in wisdom's school!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 76,
+                    "offset": 323,
+                    "sentiment": "negative",
+                    "text": "And I whispered gently, 'The\ndignity of truth is lost with much protesting.'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 65,
+                    "offset": 400,
+                    "sentiment": "negative",
+                    "text": "And you screamed,\n'Carcasses bleed at the sight of the murderer!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.0,
+                        "neutral": 1.0,
+                        "positive": 0.0
+                    },
+                    "length": 66,
+                    "offset": 466,
+                    "sentiment": "neutral",
+                    "text": "And I said, patting your\nhand, 'What, do I give you trench mouth?'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.0,
+                        "neutral": 0.99,
+                        "positive": 0.01
+                    },
+                    "length": 39,
+                    "offset": 533,
+                    "sentiment": "neutral",
+                    "text": "And you shrieked,\n'Knowledge is power!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.07,
+                        "neutral": 0.92,
+                        "positive": 0.01
+                    },
+                    "length": 64,
+                    "offset": 573,
+                    "sentiment": "neutral",
+                    "text": "and 'A dwarf on a giant's shoulders of the\nfurthest of the two!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.87,
+                        "neutral": 0.0,
+                        "positive": 0.13
+                    },
+                    "length": 214,
+                    "offset": 638,
+                    "sentiment": "negative",
+                    "text": "and I summed my side up with rare serenity in,\n'The folly of mistaking a metaphor for a proof, a torrent of verbiage for\na spring of capital truths, and oneself as an oracle, is inborn in us, Mr.\nValery once said.'"
+                }
+            ],
+            "sentiment": "negative",
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2020-04-01"
+}

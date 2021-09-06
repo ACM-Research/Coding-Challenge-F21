@@ -1,0 +1,172 @@
+{
+    "documents": [
+        {
+            "confidenceScores": {
+                "negative": 0.99,
+                "neutral": 0.01,
+                "positive": 0.0
+            },
+            "id": "0",
+            "sentences": [
+                {
+                    "confidenceScores": {
+                        "negative": 0.2,
+                        "neutral": 0.72,
+                        "positive": 0.08
+                    },
+                    "length": 14,
+                    "offset": 0,
+                    "sentiment": "neutral",
+                    "text": "Stop blushing."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.15,
+                        "neutral": 0.84,
+                        "positive": 0.01
+                    },
+                    "length": 33,
+                    "offset": 15,
+                    "sentiment": "neutral",
+                    "text": "I'm not needling, really I'm not."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.0,
+                        "neutral": 0.78,
+                        "positive": 0.22
+                    },
+                    "length": 39,
+                    "offset": 49,
+                    "sentiment": "neutral",
+                    "text": "Do you know, I\nhad a dream an hour ago."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.99,
+                        "neutral": 0.0,
+                        "positive": 0.01
+                    },
+                    "length": 97,
+                    "offset": 89,
+                    "sentiment": "negative",
+                    "text": "I lay down for a cat-nap and in this dream\nyou and I, Montag, got into a furious debate on books."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 43,
+                    "offset": 187,
+                    "sentiment": "negative",
+                    "text": "You towered\nwith rage, yelled quotes at me."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.04,
+                        "neutral": 0.93,
+                        "positive": 0.03
+                    },
+                    "length": 30,
+                    "offset": 231,
+                    "sentiment": "neutral",
+                    "text": "I calmly parried every thrust."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.05,
+                        "neutral": 0.91,
+                        "positive": 0.04
+                    },
+                    "length": 95,
+                    "offset": 262,
+                    "sentiment": "neutral",
+                    "text": "Power, I\nsaid, And you, quoting Dr. Johnson, said `Knowledge is more than\nequivalent to force!'"
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 124,
+                    "offset": 358,
+                    "sentiment": "negative",
+                    "text": "And I said, `Well, Dr. Johnson also said, dear boy,\nthat \"He is no wise man that will quit a certainty for an uncertainty.'\""
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.03,
+                        "neutral": 0.93,
+                        "positive": 0.04
+                    },
+                    "length": 31,
+                    "offset": 483,
+                    "sentiment": "neutral",
+                    "text": "Stick with the fireman, Montag."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 1.0,
+                        "neutral": 0.0,
+                        "positive": 0.0
+                    },
+                    "length": 26,
+                    "offset": 515,
+                    "sentiment": "negative",
+                    "text": "All else is dreary chaos!\""
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.16,
+                        "neutral": 0.82,
+                        "positive": 0.02
+                    },
+                    "length": 32,
+                    "offset": 542,
+                    "sentiment": "neutral",
+                    "text": "\"Don't listen,\" whispered Faber."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.99,
+                        "neutral": 0.01,
+                        "positive": 0.0
+                    },
+                    "length": 24,
+                    "offset": 575,
+                    "sentiment": "negative",
+                    "text": "\"He's trying to confuse."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.99,
+                        "neutral": 0.01,
+                        "positive": 0.0
+                    },
+                    "length": 14,
+                    "offset": 600,
+                    "sentiment": "negative",
+                    "text": "He's\nslippery."
+                },
+                {
+                    "confidenceScores": {
+                        "negative": 0.07,
+                        "neutral": 0.82,
+                        "positive": 0.11
+                    },
+                    "length": 10,
+                    "offset": 615,
+                    "sentiment": "neutral",
+                    "text": "Watch out!"
+                }
+            ],
+            "sentiment": "negative",
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2020-04-01"
+}
